@@ -1,0 +1,24 @@
+{
+    "name": "sysbind/etcd-php-sample",
+    "description": "Sample Code using etcd-php",
+    "homepage": "http://sysbind.com",
+    "keywords": [
+        "php",
+        "etcd",
+        "api",
+        "distributed",
+        "configuration"
+    ],
+    "type": "application",
+    "authors": [
+        {
+            "name": "Asaf Ohayon",
+            "email": "asaf@sysbind.co.il",
+            "role": "Development"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+	"linkorb/etcd-php": ">=1.5.0"
+    }
+}
