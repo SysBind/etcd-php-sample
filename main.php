@@ -25,4 +25,8 @@ echo "getting previously stored /foo value: \n";
 
 echo $client->get('/foo');
 
+echo "\n going to sleep \n press CTRL-C to terminate.";
+
+sleep(12000);
+
 ?>
