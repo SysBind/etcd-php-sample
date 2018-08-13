@@ -6,6 +6,9 @@
 
 ## run with telepresence against a kubernetes cluster
 
+* have a demo etcd cluster named "example-etcd-cluster"
+	(see etcd-operator: https://github.com/coreos/etcd-operator)
+
 * install telepresence: https://www.telepresence.io
 
 * have your kubectl configured to the desired cluster
