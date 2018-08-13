@@ -1,3 +1,4 @@
+#!/usr/local/bin/php
 <?php
 
 $loader = __DIR__ . '/vendor/autoload.php';
