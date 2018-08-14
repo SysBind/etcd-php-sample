@@ -21,4 +21,4 @@ spec:
     spec:
       containers:
       - name: primary
-        image: docker.io/sysbind/etcd-php-sample
+        image: docker.io/asafo/etcd-php-sample
